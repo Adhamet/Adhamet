@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Adham Essam</h1>
 <h3 align="center">A passionate software engineer, problem solver and an AI enthusiast.</h3>
 
-<img align="right" alt="Coding" width="" height = "200" src="https://cdn.pixabay.com/photo/2018/09/18/11/19/artificial-intelligence-3685928_960_720.png">
+<img align="right" alt="Coding" width="" height = "170" src="https://cdn.pixabay.com/photo/2018/09/18/11/19/artificial-intelligence-3685928_960_720.png">
 
 - 🔭 I’m currently working on **ALX software-engineering program**
 
