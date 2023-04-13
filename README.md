@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **ALX's software-engineering program**.
 - 🌱 I’m currently learning **Artifical Intelligence, Web-development and Complex Algorithms for Competitive Programming**.
-- 📫 How to reach me **adhamessammetwally@gmail.com**.
+- 📫 How to reach me: **adhamessammetwally@gmail.com**.
 - ⚡ Fun fact **Uranus was first named George**.
 
 
