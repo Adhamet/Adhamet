@@ -1,4 +1,4 @@
-[![MasterHead](https://images.squarespace-cdn.com/content/v1/60479868292a5d29e69ac6b9/d2f479f8-2005-43ae-bb36-e90333fa8f19/Future_of_Artificial_Intelligence.gif?format=1000w)]
+![MasterHead](https://d2z8nyy70yf33i.cloudfront.net/wp-content/uploads/02_gif.gif)
 
 <h1 align="center">Hi 👋, I'm Adham Essam</h1>
 <h3 align="center">A passionate software engineer, problem solver and an AI enthusiast.</h3>
