@@ -1,5 +1,9 @@
+
+
 <h1 align="center">Hi 👋, I'm Adham Essam</h1>
 <h3 align="center">A passionate software engineer, problem solver and an AI enthusiast.</h3>
+
+<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 - 🔭 I’m currently working on **ALX software-engineering program**
 
