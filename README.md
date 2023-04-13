@@ -26,12 +26,12 @@
 ### ⚡ GitHub Stats:
 
 <div align="center">
-<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=adhamet&show_icons=true&locale=en&layout=compact" alt="adhamet" />
-<img align="center" height="150em"src="https://github-readme-stats.vercel.app/api?username=adhamet&show_icons=true&locale=en" alt="adhamet" />
+<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=adhamet&theme=algolia&show_icons=true&locale=en&layout=compact" alt="adhamet" />
+<img align="center" height="150em"src="https://github-readme-stats.vercel.app/api?username=adhamet&theme=algolia&show_icons=true&locale=en" alt="adhamet" />
 </div>
 
 ### ☄️ Github Streaks:
 
 <div align="center">
-<img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=adhamet&" alt="adhamet"/>
+<img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=adhamet&theme=algolia" alt="adhamet"/>
 </div>
