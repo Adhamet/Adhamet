@@ -2,9 +2,9 @@
 <h2 align="center">Hi 👋, I'm Adham Essam.</h2>
 <h4 align="center">A passionate software engineer, problem solver and an AI enthusiast.</h3>
 
-<h4 align="left">👨‍💻 About me:</h4>
-<img align="right" alt="Coding" width="" height = "170" src="https://cdn.pixabay.com/photo/2018/09/18/11/19/artificial-intelligence-3685928_960_720.png">
 
+<img align="right" alt="Coding" width="" height = "170" src="https://cdn.pixabay.com/photo/2018/09/18/11/19/artificial-intelligence-3685928_960_720.png">
+<h4 align="left">👨‍💻 About me:</h4>
 - 🔭 I’m currently working on **ALX software-engineering program**.
 - 🌱 I’m currently learning **Artifical Intelligence, Web-development and Complex Algorithms for Competitive Programming**.
 - 📫 How to reach me **adhamessammetwally@gmail.com**.
