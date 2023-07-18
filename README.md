@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on **ALX's software-engineering program**.
 - 🌱 I’m currently learning **Artifical Intelligence, Web-development and Complex Algorithms for Competitive Programming**.
 - 📫 How to reach me: **adhamessammetwally@gmail.com**.
-- ⚡ Fun fact **Uranus was first named George**.
+- ⚡ Fun fact **There were 12 million robots in the world in 2020, 42% of them are in the auto-motive industry**.
 
 
 <h4 align="left">🕸️ Connect with me:</h4>
