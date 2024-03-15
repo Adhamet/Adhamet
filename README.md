@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on **ALX's software-engineering program**.
 - 🌱 I’m currently learning **Artifical Intelligence, Web-development and Complex Algorithms for Problem-Solving skills**.
 - 📫 How to reach me: **adhamessammetwally@gmail.com**.
-- ⚡ Fun fact: **AI development involves philosophy and emotion, emphasizing the need for emotional understanding in decision-making algorithms**
+- ⚡ Fun fact: **AI development involves philosophy and emotion, emphasizing the need for emotional understanding in decision-making algorithms.**
 
 
 <h4 align="left">🕸️ Connect with me:</h4>
