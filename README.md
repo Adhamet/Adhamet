@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on **ALX's software-engineering program**.
 - 🌱 I’m currently learning **Artifical Intelligence, Web-development and Complex Algorithms for Problem-Solving skills**.
 - 📫 How to reach me: **adhamessammetwally@gmail.com**.
-- ⚡ Fun fact **There were 12 million robots in the world in 2020, 42% of them were in the auto-motive industry**..
+- ⚡ Fun fact **AI's evolution necessitates a fusion of philosophy and emotion. Understanding human feelings is crucial for decision-making algorithms, highlighting the importance of emotional intelligence in AI development.**..
 
 
 <h4 align="left">🕸️ Connect with me:</h4>
