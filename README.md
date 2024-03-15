@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on **ALX's software-engineering program**.
 - 🌱 I’m currently learning **Artifical Intelligence, Web-development and Complex Algorithms for Problem-Solving skills**.
 - 📫 How to reach me: **adhamessammetwally@gmail.com**.
-- ⚡ Fun fact **AI's evolution necessitates a fusion of philosophy and emotion. Understanding human feelings is crucial for decision-making algorithms, highlighting the importance of emotional intelligence in AI development.**..
+- ⚡ Fun fact: **AI development involves philosophy and emotion, emphasizing the need for emotional understanding in decision-making algorithms**
 
 
 <h4 align="left">🕸️ Connect with me:</h4>
