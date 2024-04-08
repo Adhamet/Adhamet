@@ -6,8 +6,8 @@
 <img align="right" alt="Coding" width="" height = "200" src="https://cdn.pixabay.com/photo/2018/09/18/11/19/artificial-intelligence-3685928_960_720.png">
 <h4 align="left">👨‍💻 About me:</h4>
 
-- 🔭 I’m currently working on **ALX's software-engineering program**.
-- 🌱 I’m currently learning **Artifical Intelligence, Web-development and Complex Algorithms for Problem-Solving skills**.
+- 🔭 An **ALX Software Engineering Alumni**.
+- 🌱 I’m currently invested in **Artifical Intelligence and Complex Algorithms for Problem-Solving skills**.
 - 📫 How to reach me: **adhamessammetwally@gmail.com**.
 - ⚡ Fun fact: **AI development involves philosophy and emotion, emphasizing the need for emotional understanding in decision-making algorithms.**
 
