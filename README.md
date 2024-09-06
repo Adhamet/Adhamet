@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="" height = "200" src="https://cdn.pixabay.com/photo/2018/09/18/11/19/artificial-intelligence-3685928_960_720.png">
 <h4 align="left">👨‍💻 About me:</h4>
 
-- 🔭 An **ALX Software Engineering Alumni with Back-End Specialization** (an intern for over a year: around 13 months).
+- 🔭 An **ALX Software Engineering Alumni with Back-End Specialization with NodeJS** (an intern for over a year: around 13 months).
 - 🌱 I’m currently invested in **Artifical Intelligence and Complex Algorithms For Problem-Solving Skills**.
 - 📫 How to reach me: **adhamessammetwally@gmail.com**.
 - ⚡ Fun fact: **AI development involves philosophy and emotion, emphasizing the need for emotional understanding in decision-making algorithms, wondering if that will be the cause of AI taking over the world...**
